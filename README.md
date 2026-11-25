@@ -24,11 +24,11 @@ Prototype
 
 Created using Canva.
 
-"View PlantCare Prototype" (https://canva.link/hm7jjuc1v905q9q)
+ [View PlantCare Prototype](https://canva.link/hm7jjuc1v905q9q)
 
 Demo Video
 
-Demo video link will be added here.
+[Watch PlantCare Demo Video](https://drive.google.com/file/d/118KCZkjKg7hBHvtOtufM9tqYjWnEoPbS/view?usp=drivesdk)
 
 Technology Used
 
